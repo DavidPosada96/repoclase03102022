@@ -51,6 +51,7 @@ public class mercancia implements Serializable {
     public mercancia() {
     }
 
+
     public Integer getIup() {
         return iup;
     }
